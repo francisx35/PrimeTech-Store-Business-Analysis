@@ -5,7 +5,7 @@ This project showcases a complete business analysis case study for PrimeTech Sto
 ## 🔧 Tools Used
 - **Microsoft Excel** – Data cleaning, KPI analysis, PivotTables
 - **Excel Formulas** – VLOOKUP, COUNTIFS, IF statements
-- **Data Visualization** – Pie charts, trend lines
+- **Data Visualization** – Pie charts, bar chart
 - **PowerPoint** – Executive-level presentation deck
 
 ## 📈 Project Objectives
